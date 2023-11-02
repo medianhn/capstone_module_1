@@ -10,6 +10,6 @@ Fitur dari program ini adalah melihat stok, menambah daftar buah, mengubah data 
 
 ## Development
 
-![alt text](https://github.com/medianhn/capstone_module_1/blob/main/intro%20to%20python/WhatsApp%20Image%202023-05-12%20at%2011.23.21.jpeg)
+![jangan gegabah](https://github.com/medianhn/capstone_module_1/blob/main/intro%20to%20python/WhatsApp%20Image%202023-05-12%20at%2011.23.21.jpeg)
 
 © 2023 SHILIDPC Do not copy!!!
